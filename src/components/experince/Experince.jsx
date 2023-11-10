@@ -6,7 +6,7 @@ const Experince = () => {
   return (
     <section id='experince'>
       <h5>What Skills I Have</h5>
-      <h2>Experince</h2>
+      <h2>Experience</h2>
 
       <div className="container experince__container">
 
@@ -18,7 +18,7 @@ const Experince = () => {
                 <BsPatchCheckFill className='experince__details-icons'/>
                 <div>
                 <h4>HTML</h4>
-                <small className='text-light'>Experinced</small>
+                <small className='text-light'>Experienced</small>
                 </div>
               </article>
 
@@ -58,7 +58,7 @@ const Experince = () => {
                 <BsPatchCheckFill className='experince__details-icons'/>
                 <div>
                 <h4>React</h4>
-                <small className='text-light'>Experinced</small>
+                <small className='text-light'>Intermediate</small>
                 </div>
               </article>
 
@@ -82,36 +82,36 @@ const Experince = () => {
               </article>
 
               <article className='experince__details'>
-                <BsPatchCheckFill className='experince__details-icons-l'/>
+                <BsPatchCheckFill className='experince__details-icons'/>
                 <div>
                 <h4>Node JS</h4>
-                <small className='text-light'>Learning</small>
+                <small className='text-light'>Intermediate</small>
                 </div>
               </article>
 
               <article className='experince__details'>
-                <BsPatchCheckFill className='experince__details-icons-l'/>
+                <BsPatchCheckFill className='experince__details-icons'/>
                 <div>
                 <h4>Mongo DB</h4>
-                <small className='text-light'>Learning</small>
+                <small className='text-light'>Intermediate</small>
                 </div>
               </article>
 
               <article className='experince__details'>
-                <BsPatchCheckFill className='experince__details-icons-l'/>
+                <BsPatchCheckFill className='experince__details-icons'/>
                 <div>
-                <h4>Angular</h4>
-                <small className='text-light'>Learning</small>
+                <h4>ExpressJS</h4>
+                <small className='text-light'>Intermediate</small>
                 </div>
               </article>
 
-              <article className='experince__details'>
+              {/* <article className='experince__details'>
                 <BsPatchCheckFill className='experince__details-icons-l'/>
                 <div>
                 <h4>MySQL</h4>
-                <small className='text-light'>Learning</small>
+                <small className='text-light'>Beginner</small>
                 </div>
-              </article>
+              </article> */}
 
               
 

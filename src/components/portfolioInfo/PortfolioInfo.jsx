@@ -1,17 +1,18 @@
 import React from 'react'
 import './portfolioInfo.css'
-import Img1 from '../../assects/basicResume.JPG'
+import Img1 from '../../assects/smapp.JPG'
 import Img2 from '../../assects/CryptoImg.JPG'
 import Img3 from '../../assects/MyCart.JPG'
+import Img4 from '../../assects/basicResume.JPG'
 
 
 const data=[
   {
     id:1,
     image:Img1,
-    title:'Resume using HTML and CSS',
-    github:'https://github.com/NIKHILGSINGH131/CSS-basic-resumeNikhil',
-    demo:'https://nikhilgsingh131.github.io/CSS-basic-resumeNikhil//'
+    title:'Social Media App',
+    github:'https://github.com/NIKHILGSINGH131/social-media-server',
+    demo:'https://client-app-6eix9.ondigitalocean.app/#/login'
   },
   {
     id:2,
@@ -26,7 +27,15 @@ const data=[
     title:'My Cart',
     github:'https://github.com/NIKHILGSINGH131/My-Cart-second',
     demo:'https://nikhilgsingh131.github.io/My-Cart-second/'
+  },
+  {
+    id:4,
+    image:Img4,
+    title:'Resume using HTML and CSS',
+    github:'https://github.com/NIKHILGSINGH131/CSS-basic-resumeNikhil',
+    demo:'https://nikhilgsingh131.github.io/CSS-basic-resumeNikhil//'
   }
+  
   
 ]
 
