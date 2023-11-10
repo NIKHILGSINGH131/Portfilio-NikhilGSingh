@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfilio-NikhilGSingh/static/css/main.f7865e9e.css",
-    "main.js": "/Portfilio-NikhilGSingh/static/js/main.682af839.js",
+    "main.js": "/Portfilio-NikhilGSingh/static/js/main.1f225997.js",
     "static/media/me.png": "/Portfilio-NikhilGSingh/static/media/me.58bdab89f3d9e82314a4.png",
     "static/media/NGScv.pdf": "/Portfilio-NikhilGSingh/static/media/NGScv.144025afbabf35747831.pdf",
     "static/media/basicResume.JPG": "/Portfilio-NikhilGSingh/static/media/basicResume.50bc500cc172aeb46607.JPG",
@@ -11,10 +11,10 @@
     "static/media/CryptoImg.JPG": "/Portfilio-NikhilGSingh/static/media/CryptoImg.22ec63f073e96b44c078.JPG",
     "index.html": "/Portfilio-NikhilGSingh/index.html",
     "main.f7865e9e.css.map": "/Portfilio-NikhilGSingh/static/css/main.f7865e9e.css.map",
-    "main.682af839.js.map": "/Portfilio-NikhilGSingh/static/js/main.682af839.js.map"
+    "main.1f225997.js.map": "/Portfilio-NikhilGSingh/static/js/main.1f225997.js.map"
   },
   "entrypoints": [
     "static/css/main.f7865e9e.css",
-    "static/js/main.682af839.js"
+    "static/js/main.1f225997.js"
   ]
 }
