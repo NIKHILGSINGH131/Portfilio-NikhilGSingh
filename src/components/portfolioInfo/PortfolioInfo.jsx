@@ -4,6 +4,7 @@ import Img1 from '../../assects/smapp.JPG'
 import Img2 from '../../assects/CryptoImg.JPG'
 import Img3 from '../../assects/MyCart.JPG'
 import Img4 from '../../assects/basicResume.JPG'
+import Img5 from '../../assects/todo.JPG'
 
 
 const data=[
@@ -34,6 +35,14 @@ const data=[
     title:'Resume using HTML and CSS',
     github:'https://github.com/NIKHILGSINGH131/CSS-basic-resumeNikhil',
     demo:'https://nikhilgsingh131.github.io/CSS-basic-resumeNikhil//'
+  }
+  ,
+  {
+    id:5,
+    image:Img5,
+    title:'Todo app using Angular',
+    github:'https://github.com/NIKHILGSINGH131/TodoApp',
+    demo:'https://nikhilgsingh131.github.io/TodoApp/'
   }
   
   
