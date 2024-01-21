@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/Portfilio-NikhilGSingh/static/css/main.f7865e9e.css",
-    "main.js": "/Portfilio-NikhilGSingh/static/js/main.c8517015.js",
+    "main.js": "/Portfilio-NikhilGSingh/static/js/main.ff5d9c72.js",
     "static/media/me.png": "/Portfilio-NikhilGSingh/static/media/me.58bdab89f3d9e82314a4.png",
     "static/media/basicResume.JPG": "/Portfilio-NikhilGSingh/static/media/basicResume.50bc500cc172aeb46607.JPG",
     "static/media/smapp.JPG": "/Portfilio-NikhilGSingh/static/media/smapp.23a0f73d4cb59b95efa1.JPG",
     "static/media/MyCart.JPG": "/Portfilio-NikhilGSingh/static/media/MyCart.d758b9d7e3033d2dd2cf.JPG",
+    "static/media/todo.JPG": "/Portfilio-NikhilGSingh/static/media/todo.243b8e4dd8339fcf5727.JPG",
     "static/media/me-about.jpeg": "/Portfilio-NikhilGSingh/static/media/me-about.23f5d0497e3d6b81acac.jpeg",
     "static/media/nikhilgsinghCv.pdf": "/Portfilio-NikhilGSingh/static/media/nikhilgsinghCv.6ccd696df63d1ac90a03.pdf",
     "static/media/CryptoImg.JPG": "/Portfilio-NikhilGSingh/static/media/CryptoImg.22ec63f073e96b44c078.JPG",
     "index.html": "/Portfilio-NikhilGSingh/index.html",
     "main.f7865e9e.css.map": "/Portfilio-NikhilGSingh/static/css/main.f7865e9e.css.map",
-    "main.c8517015.js.map": "/Portfilio-NikhilGSingh/static/js/main.c8517015.js.map"
+    "main.ff5d9c72.js.map": "/Portfilio-NikhilGSingh/static/js/main.ff5d9c72.js.map"
   },
   "entrypoints": [
     "static/css/main.f7865e9e.css",
-    "static/js/main.c8517015.js"
+    "static/js/main.ff5d9c72.js"
   ]
 }
