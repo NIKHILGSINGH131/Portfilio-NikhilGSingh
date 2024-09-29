@@ -32,14 +32,14 @@ const Contact = () => {
           <article className="contact__option">
               <MdOutlineEmail className="contact__option-icon"/>
               <h4>Email</h4>
-              <h5>nikhilgsingh007@gmail.com</h5>
-              <a href="mailto:nikhilgsingh007@gmail.com" target='_blank'>Send a message</a>
+              <h5>nishagsingh30@gmail.com</h5>
+              <a href="mailto:nishagsingh30@gmail.com" target='_blank'>Send a message</a>
           </article>
 
           <article className="contact__option">
               <BsInstagram className="contact__option-icon"/>
               <h4>Instagram</h4>
-              <h5>nikhil_g_singh</h5>
+              <h5>nisha_g_singh</h5>
               {/* <a href="https://m.me/nikhilg.singh">Send a message</a> */}
               <a href="https://ig.me/m/nikhil_g_singh/" target='_blank'>Send a message</a>
               </article>
@@ -47,8 +47,8 @@ const Contact = () => {
           <article className="contact__option">
               <BsWhatsapp className="contact__option-icon"/>
               <h4>WhatsApp</h4>
-              <h5>+91 9986679071</h5>
-              <a href="https://api.whatsapp.com/send?phone=9986679071" target='_blank'>Send a message</a>
+              <h5>+91 9740719342</h5>
+              <a href="https://api.whatsapp.com/send?phone=9740719342" target='_blank'>Send a message</a>
           </article>
         </div>
         {/* End of contact-iteams */}

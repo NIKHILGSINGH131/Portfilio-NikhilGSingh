@@ -4,7 +4,7 @@ import {FaFacebookF,FaTwitter,FaInstagram} from 'react-icons/fa'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className='footer__logo'>Nikhil G Singh</a>
+      <a href="#" className='footer__logo'>Nisha G Singh</a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
@@ -20,7 +20,7 @@ const Footer = () => {
         <a href="https://twitter.com/NikhilGSingh1" target='_blank'><FaTwitter className='footer__logo' /></a>
       </div>
       <div className="footer__copyrights">
-        <small>&copy; Nikhil G Singh. All rights reserved</small>
+        <small>&copy; Nisha G Singh. All rights reserved</small>
       </div>
     </footer>
   )

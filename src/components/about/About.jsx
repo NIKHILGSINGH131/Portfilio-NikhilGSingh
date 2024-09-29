@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assects/me-about.jpeg'
+import ME from '../../assects/nishaIMG.jpeg'
 import {FaAward} from 'react-icons/fa'
 import {ImOffice} from 'react-icons/im'
 import {IoSchoolSharp} from 'react-icons/io5'
@@ -17,7 +17,7 @@ const About = () => {
            </div>
         </div>
         <div className="about__contant">
-            <div className="about__cards">
+            {/* <div className="about__cards">
               <article className='about__card'>
                 <FaAward className='about__icon'/>
                 <h5>Experince</h5>
@@ -35,11 +35,13 @@ const About = () => {
                 <h5>College</h5>
                 <small>SJBIT Banglore</small>
               </article>
-            </div>
+            </div> */}
 
             <p>
-            Determined to work in a challenging and creative environment and effectively utilize my skills to contribute towards the goals of 
-            the organization besides acquiring as much knowledge as possible in order to achieve expertise in the working domain.
+            Welcome to our kitchen! I'm Nisha , we craft wholesome, organic treats that delight
+             both kids and adults. From delectable cookies and cakes to zesty pickles,
+             every item is homemade with love and the finest ingredients. Our mission is 
+            simple: to provide tasty, healthy snacks that bring joy to your family.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>

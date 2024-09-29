@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://NIKHILGSINGH131.github.io/Portfilio-NikhilGSingh",
+  "homepage": "https://github.com/NIKHILGSINGH131/nishaShop.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "emailjs-com": "^3.2.0",
     "gh-pages": "^5.0.0",
+    "git": "^0.1.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",

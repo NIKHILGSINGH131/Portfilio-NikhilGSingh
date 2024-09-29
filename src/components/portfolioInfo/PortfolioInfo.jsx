@@ -1,48 +1,48 @@
 import React from 'react'
 import './portfolioInfo.css'
-import Img1 from '../../assects/smapp.JPG'
-import Img2 from '../../assects/CryptoImg.JPG'
-import Img3 from '../../assects/MyCart.JPG'
-import Img4 from '../../assects/basicResume.JPG'
-import Img5 from '../../assects/todo.JPG'
+import Img1 from '../../assects/chocoBrowniw.jpeg'
+import Img2 from '../../assects/cookies.jpeg'
+import Img3 from '../../assects/eggSalad.jpeg'
+import Img4 from '../../assects/broccoliSmash.jpeg'
+import Img5 from '../../assects//iceCream.jpeg'
 
 
 const data=[
   {
     id:1,
     image:Img1,
-    title:'Social Media App',
-    github:'https://github.com/NIKHILGSINGH131/social-media-server',
-    demo:'https://client-app-6eix9.ondigitalocean.app/#/login'
+    title:'Chocolate Brownie',
+    github:'',
+    demo:''
   },
   {
     id:2,
     image:Img2,
-    title:'Crypto Converter',
-    github:'https://github.com/NIKHILGSINGH131/CryptoConverterToBitcoin',
-    demo:'https://crypto-converter-by-nikhil.netlify.app/'
+    title:'Cookies',
+     github:'',
+    demo:''
   },
   {
     id:3,
     image:Img3,
-    title:'My Cart',
-    github:'https://github.com/NIKHILGSINGH131/My-Cart-second',
-    demo:'https://nikhilgsingh131.github.io/My-Cart-second/'
+    title:'Egg Salad',
+    github:'',
+    demo:''
   },
   {
     id:4,
     image:Img4,
-    title:'Resume using HTML and CSS',
-    github:'https://github.com/NIKHILGSINGH131/CSS-basic-resumeNikhil',
-    demo:'https://nikhilgsingh131.github.io/CSS-basic-resumeNikhil//'
+    title:'Broccoli Smash',
+     github:'',
+    demo:''
   }
   ,
   {
     id:5,
     image:Img5,
-    title:'Todo app using Angular',
-    github:'https://github.com/NIKHILGSINGH131/TodoApp',
-    demo:'https://nikhilgsingh131.github.io/TodoApp/'
+    title:'Ice Cream',
+    github:'',
+    demo:''
   }
   
   
@@ -51,8 +51,8 @@ const data=[
 const PortfolioInfo = () => {
   return (
     <section id='portfolioInfo'>
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h5>Shop Now</h5>
+      <h2>Our Products</h2>
 
       <div className="container portfolio__container">
 
@@ -65,8 +65,8 @@ const PortfolioInfo = () => {
             </div>
               <h3>{title}</h3>
               <div className="portfolio__iteam-cta">
-              <a href={github} className='btn' target='_blank'>GitHub</a>
-              <a href={demo} className='btn btn-primary' target='_blank'>Live Demo</a>
+              <a href={github} className='btn' target='_blank'>Add to Cart</a>
+              <a href={demo} className='btn btn-primary' target='_blank'>Buy Now</a>
               </div>   
         </article>
             )

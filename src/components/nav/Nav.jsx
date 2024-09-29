@@ -14,7 +14,7 @@ const [activeNav , setActiveNav]=useState('#');
     <nav>
       <a href="#" onClick={()=>{setActiveNav('#')}} className={activeNav==='#'? 'active': ''}><AiOutlineHome/></a>
       <a href="#about" onClick={()=>{setActiveNav('#about')}} className={activeNav==='#about'? 'active': ''}><AiOutlineUser/></a>
-      <a href="#experince" onClick={()=>{setActiveNav('#experince')}} className={activeNav==='#experince'? 'active': ''}><HiOutlineBuildingOffice2/></a>
+      {/* <a href="#experince" onClick={()=>{setActiveNav('#experince')}} className={activeNav==='#experince'? 'active': ''}><HiOutlineBuildingOffice2/></a> */}
       <a href="#portfolioInfo" onClick={()=>{setActiveNav('#portfolioInfo')}} className={activeNav==='#portfolioInfo'? 'active': ''}><BsFiles/></a>
       <a href="#contact" onClick={()=>{setActiveNav('#contact')}} className={activeNav==='#contact'? 'active': ''}><BiMessageSquareDetail/></a>
     </nav>
